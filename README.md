@@ -14,8 +14,11 @@ Esta é uma Fake-API hospedada no Heroku onde é possível realizar requisiçõe
 ## **Endpoints**
 
 A API tem um total de 3 endpoints, sendo em volta principalmente do usuário - podendo cadastrar seu perfil, pets e necessidades para os cuidados de pets. <br/>
+O JSON para utilizar no Insomnia é este aqui -> https://git.heroku.com/atividade-json.git
 
-O url base da API é https://git.heroku.com/atividade-json.git
+Para importar o JSON no Insomnia é só clicar na palavra "Insomnia" no canto superior esquerdo. Nesse dropdown é só clicar em "Import / Export > Import Data > From Url" e colocar o link acima :v:
+
+O url base da API é https://atividade-json.herokuapp.com/
 
 ## Rotas que não precisam de autenticação
 
