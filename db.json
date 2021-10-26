@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$FrCgIhKxdWF8OLmtg.HfV.lvm6wkyykUwL2sKy/8Oyf2KjwRg1JL2",
+      "name": "Maria",
+      "age": 19,
+      "id": 2
+    },
+    {
+      "email": "mfb@gmail.com",
+      "password": "$2a$10$IyHETkuUp.gRpDSJX6/g7uNEGsW5.zD1uVCM0mOtaDT34YLcw13UG",
+      "name": "Maria",
+      "age": 19,
+      "id": 3
+    },
+    {
+      "email": "maria1@gmail.com",
+      "password": "$2a$10$eU5YiAho2go2xj3GTZyUKOGbfbjwO0yJHHaLLtRc1sdQHOkVBEH0O",
+      "name": "Maria",
+      "age": 19,
+      "id": 4
+    },
+    {
+      "email": "maria17@gmail.com",
+      "password": "$2a$10$0CHo0BguUacNPjYAr3uvzeMhVU/yO9nAeL2piMeLP939SZIPlt3LS",
+      "name": "Maria",
+      "age": 19,
+      "id": 5
+    }
+  ],
+  "animals": [
+    {
+      "type": "Gato",
+      "name": "bigodes",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "type": "Cachorro",
+      "name": "Laila",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "needs": [
+    {
+      "need": "Ração",
+      "id": 1
+    },
+    {
+      "need": "Água",
+      "id": 2
+    },
+    {
+      "need": "Dar banho",
+      "id": 3
+    }
+  ]
+}
